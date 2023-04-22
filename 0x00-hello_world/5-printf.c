@@ -1,7 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - A program that prints line with printf function
- *Return: 0
+ *Return:0
  */
 int main(void)
 {
