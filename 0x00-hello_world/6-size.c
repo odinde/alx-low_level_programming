@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints sizes of variuse comptypes
+ * main - A program that prints sizes of various comp types
  * Return: 0
  */
 int main(void)
