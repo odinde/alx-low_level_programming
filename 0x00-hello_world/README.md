@@ -1,1 +1,1 @@
- task0 hello world
+prints sizes task 6
