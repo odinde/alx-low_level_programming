@@ -3,7 +3,7 @@
  * main - a program that prints sizes of various comp types
  * Return 0
  */
-int main(void)
+int main (void)
 {
 	char a;
 	int b;

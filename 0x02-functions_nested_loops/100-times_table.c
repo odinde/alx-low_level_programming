@@ -6,8 +6,8 @@
  */
 void print_times_table(int n)
 {
-	num = 0;
 	int num, mult, prod;
+
 	if (n >= 0 && num <= 35)
 	{
 		for (num = 0; num <= n; num++)
