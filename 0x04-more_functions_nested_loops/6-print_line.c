@@ -7,7 +7,7 @@
 void print_line(int n)
 {
 	{
-		int index = 0
+		int n  = 0
 
 			while (index < n)
 			{
