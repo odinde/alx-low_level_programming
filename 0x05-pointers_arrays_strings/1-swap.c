@@ -7,8 +7,9 @@
  * Return: nothing
  */
 void swap_int(int *a, int *b)
+/* function that swaps two integers. */
 {
-	int temp = *0;
+	int temp = *a;
 	*a = *b;
 	*b = temp;
 }
