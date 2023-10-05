@@ -37,7 +37,9 @@ int main(int argc, char *argv[])
 	int count;
 	int str_to_int;
 	int sum = 0;
+
 	count = 1;
+
 	while (count < argc) /*Goes through the whole array*/
 	{
 		if (check_num(argv[count]))
@@ -49,10 +51,10 @@ int main(int argc, char *argv[])
 		else
 		{
 			printf("Error\n");
-			return(1);
+			return (1);
 		}
 		count++
 	}
 	printf("%d\n", sum); /*print sum*/
-	return(0);
+	return (0);
 }
