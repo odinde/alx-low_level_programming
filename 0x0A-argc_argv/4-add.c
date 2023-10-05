@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-#include <sting.h>
+#include <string.h>
 /**
  * check_num - check - string there are digit
  * @str: array str
@@ -53,7 +53,7 @@ int main(int argc, char *argv[])
 			printf("Error\n");
 			return (1);
 		}
-		count++
+		count++;
 	}
 	printf("%d\n", sum); /*print sum*/
 	return (0);
